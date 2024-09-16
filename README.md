@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto implementa una lista simple enlazada utilizando el lenguaje de programación C estándar. El paradigma de programación empleado es el imperativo, donde el flujo del programa se controla mediante instrucciones secuenciales que modifican el estado del sistema. La estructura principal utilizada es una lista enlazada, que permite el almacenamiento dinámico de datos.
+Este proyecto implementa una lista simple enlazada utilizando el lenguaje de programación C estándar. El paradigma de programación empleado es el imperativo, donde el flujo del programa se controla mediante instrucciones secuenciales que modifican el estado del sistema. La estructura principal utilizada es una lista enlazada, que permite el almacenamiento dinámico de datos, esta consta de una struct Node y una struct List. Los metodos implementados son: isEmpty, add, remove y exist. 
 
 ## Requerimientos de Software
 
@@ -35,6 +35,7 @@ Navega al directorio donde se encuentra tu archivo .c.
 Ejecuta los siguientes comandos:
 
 gcc -o mi_programa archivo_fuente.c
+
 ./mi_programa
 
 ## Recursos adicionales
