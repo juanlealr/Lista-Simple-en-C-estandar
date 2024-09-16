@@ -35,6 +35,7 @@ Navega al directorio donde se encuentra tu archivo .c.
 Ejecuta los siguientes comandos:
 
 gcc -o mi_programa archivo_fuente.c
+
 ./mi_programa
 
 ## Recursos adicionales
